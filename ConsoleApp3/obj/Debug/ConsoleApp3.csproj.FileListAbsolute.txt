@@ -1,0 +1,7 @@
+F:\Inscryption\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+F:\Inscryption\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\Inscryption\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+F:\Inscryption\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+F:\Inscryption\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+F:\Inscryption\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+F:\Inscryption\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
